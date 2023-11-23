@@ -1,4 +1,5 @@
 number = int(input('Введите число: '))
+# ПЕРЕИМЕНОВАТЬ: цифра числа — digit
 first_number = number // 10
 number_1 = first_number // 10
 number_2 = first_number % 10
@@ -17,3 +18,5 @@ print(
 # Сумма цифр = 19
 # Произведение цифр = 224
 
+
+# ИТОГ: очень хорошо — 4/4
